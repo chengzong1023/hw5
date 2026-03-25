@@ -1,0 +1,13 @@
+# Large files
+*.tif
+*.tiff
+
+# Environment files
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
